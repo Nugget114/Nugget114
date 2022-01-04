@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2>Hello there! 👋</h2>
 
-<!--
-**Nugget114/Nugget114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li> 🔭 I’m currently working on: This page X)</li>
+  <li> 🌱 I’m currently learning: ...</li>
+  <li> 👯 I’m looking to collaborate on: Anything code related</li>
+  <li> 🤔 I’m looking for help with: ...</li>
+  <li> 💬 Ask me about: ...</li>
+  <li> 📫 How to reach me: ...</li>
+  <li> 😄 Pronouns: He/Him</li>
+  <li> ⚡ Fun fact: I am very vocal!</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Contact links!</h2>
