@@ -12,3 +12,4 @@
 </ul>
 
 <h2>Contact links!</h2>
+<p>Comming soon!</p>
